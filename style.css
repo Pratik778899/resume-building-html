@@ -1,0 +1,19 @@
+body {
+    background-color: salmon;
+    font-family: pp monument regular;
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    height: 200px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+    text-transform: uppercase;
+}
